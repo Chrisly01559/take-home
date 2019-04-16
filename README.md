@@ -1,6 +1,5 @@
 # Assignment Day 3
-- Homework
-- Create a
+- Homework 
 
 ## Task to finish
 - [ ] Intergrate Bootstraps
