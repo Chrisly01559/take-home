@@ -1,2 +1,11 @@
 # take-home
-Homework - 1
+- Homework day 3
+
+# Task to finish
+- [] Nav
+- [] Jumbotron
+- [] Buttons
+- [] Random Content
+- [] Basic Styling
+
+
